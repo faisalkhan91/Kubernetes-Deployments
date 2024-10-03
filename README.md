@@ -1,2 +1,2 @@
 # Kubernetes-Deployments
-This repository has generic deployment code for kubernetes created as a learning environment.
+This repository has generic deployment templates for kubernetes created for learning.
